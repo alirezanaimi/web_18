@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div.parent{
+width: 80%;
+    height: 500px;
+    background-color: azure;
+    margin: 10px auto;
+padding: 10px;
+color: ;
+
+}
+div.parent>p{
+    font-size: 30px;
+    color: brown;
+}
